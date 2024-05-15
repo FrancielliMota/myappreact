@@ -1,6 +1,5 @@
 import DateTimePicker from "./DateTimePicker";
 import TypingSign from "./TypingSign";
-import { Link } from "react-router-dom";
 import Header from '../Header';
 import Footer from '../Footer';
 import '../style.css';
